@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+ENV/
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+/data/*.csv
+/data/*.xlsx
+/data/*.parquet
+/data/*.h5
+/data/*.zip
+
+# Model artifacts
+/models/*.pkl
+/models/*.joblib
+/models/*.h5
+/models/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.bak
+*.tmp
+
+# Ignore large generated images/plots
+/static/images/
+/app/static/shap_plots/
+
+# Ignore test outputs
+/test_outputs/ 
