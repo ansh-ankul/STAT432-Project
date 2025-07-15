@@ -82,4 +82,4 @@ def download_model():
     return send_file(MODEL_PATH, as_attachment=True, download_name=f'accident_severity_model_{datetime.now().strftime("%Y%m%d_%H%M%S")}.pkl')
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5001) 
+    app.run(debug=True, host='0.0.0.0', port=5002) 

@@ -12,6 +12,17 @@ A comprehensive machine learning pipeline for predicting accident severity using
 - **Comprehensive Metrics**: Accuracy, confusion matrix, ROC curves, and more
 - **Exploratory Data Analysis (EDA)**: Includes K-Means Elbow Plot, Cluster Map, Histograms, Boxplots, and Skewness Bar Plot for in-depth data understanding
 
+## 📸 App Screenshots
+
+<div align="center">
+  <img src="App Preview/dashboard-overview.png" alt="Dashboard Overview" width="45%">
+  <img src="App Preview/model-performance.png" alt="Model Performance" width="45%">
+  <img src="App Preview/visualizations.png" alt="Visualizations" width="45%">
+  <img src="App Preview/shap-analysis.png" alt="SHAP Analysis" width="45%">
+</div>
+
+*Dashboard showcasing model performance, visualizations, and SHAP analysis for accident severity prediction*
+
 ## 📁 Project Structure
 
 ```
